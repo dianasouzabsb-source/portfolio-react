@@ -8,10 +8,10 @@ function App() {
       link: "https://github.com/dianasouzabsb-source/portfolio-react"
     },
     {
-      nome: "Portfólio Publicado",
-      descricao: "Versão online do meu portfólio publicada na Vercel.",
-      link: "https://seu-link-vercel.vercel.app"
-    },
+  nome: "Portfólio Publicado",
+  descricao: "Versão online do meu portfólio publicada na Vercel.",
+  link: "https://portfolio-react-cygy49mps-diana-milanes-souzas-projects.vercel.app/"
+},
     {
       nome: "Projeto React",
       descricao: "Migração do portfólio para React com componentes e renderização dinâmica.",
