@@ -1,21 +1,21 @@
 import "./App.css";
 
 function App() {
-  const projetos = [
+ const projetos = [
   {
     nome: "Lista de Repositórios (GitHub)",
-    descricao: "Repositório do meu portfólio desenvolvido com React.",
-    link: "https://github.com/dianasouzabsb-source/portfolio-react"
+    descricao: "Página do meu GitHub com todos os meus repositórios publicados.",
+    link: "https://github.com/dianasouzabsb-source"
   },
   {
     nome: "Portfólio Publicado",
-    descricao: "Versão online do meu portfólio publicada na Vercel.",
-    link: "https://portfolio-react-cygy49mps-diana-milanes-souzas-projects.vercel.app/"
+    descricao: "Versão online do meu portfólio publicada com GitHub Pages.",
+    link: "https://dianasouzabsb-source.github.io/portf-lio/"
   },
   {
-    nome: "Projeto React",
-    descricao: "Migração do portfólio para React com componentes e renderização dinâmica.",
-    link: "https://github.com/dianasouzabsb-source/portfolio-react"
+    nome: "Portfólio React",
+    descricao: "Nova versão do meu portfólio desenvolvida com React e publicada na Vercel.",
+    link: "https://portfolio-react-4npk8pmox-diana-milanes-souzas-projects.vercel.app/"
   }
 ];
 
